@@ -1,0 +1,66 @@
+{
+  "Consumers": [
+    {
+      "Id": "90f2a454-3e88-429f-a65e-fe4a000fbfd8",
+      "Type": 0,
+      "Name": "caique",
+      "Document": "15701128601",
+      "AccountIds": [
+        "18dc2122-e960-440d-8f33-be5c57deb238",
+        "37f639e7-6926-40ce-9c7a-fc87a675f7dc"
+      ]
+    },
+    {
+      "Id": "98b077b6-634b-40a5-a32d-ca007b82cef9",
+      "Type": 0,
+      "Name": "joao",
+      "Document": "10100101011",
+      "AccountIds": []
+    },
+    {
+      "Id": "eefd7dfb-b79d-4c4d-be32-365fa6c65159",
+      "Type": 0,
+      "Name": "Jo\u00E3o da Silva",
+      "Document": "123.456.789-00",
+      "AccountIds": [
+        "30945ebc-25a2-4e10-a750-1c2353880614"
+      ]
+    },
+    {
+      "Id": "623544e5-2cbf-42ff-bd24-3f038905517b",
+      "Type": 1,
+      "Name": "Padaria P\u00E3o Doce LTDA",
+      "Document": "12.345.678/0001-90",
+      "AccountIds": []
+    }
+  ],
+  "Accounts": [
+    {
+      "AccountType": "Residencial",
+      "Id": "18dc2122-e960-440d-8f33-be5c57deb238",
+      "RegistrationNumber": "123",
+      "ConsumerId": "90f2a454-3e88-429f-a65e-fe4a000fbfd8",
+      "PreviousReading": 10000,
+      "CurrentReading": 5000,
+      "Consumption": -5000
+    },
+    {
+      "AccountType": "Residencial",
+      "Id": "37f639e7-6926-40ce-9c7a-fc87a675f7dc",
+      "RegistrationNumber": "1233333",
+      "ConsumerId": "90f2a454-3e88-429f-a65e-fe4a000fbfd8",
+      "PreviousReading": 11111,
+      "CurrentReading": 1222,
+      "Consumption": -9889
+    },
+    {
+      "AccountType": "Residencial",
+      "Id": "30945ebc-25a2-4e10-a750-1c2353880614",
+      "RegistrationNumber": "INST123",
+      "ConsumerId": "eefd7dfb-b79d-4c4d-be32-365fa6c65159",
+      "PreviousReading": 1200,
+      "CurrentReading": 1320,
+      "Consumption": 120
+    }
+  ]
+}

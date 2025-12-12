@@ -1,0 +1,14 @@
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\obj\Debug\net7.0-windows\Tema1App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\obj\Debug\net7.0-windows\Tema1App.AssemblyInfoInputs.cache
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\obj\Debug\net7.0-windows\Tema1App.AssemblyInfo.cs
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\obj\Debug\net7.0-windows\Tema1App.csproj.CoreCompileInputs.cache
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\bin\Debug\net7.0-windows\Tema1App.exe
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\bin\Debug\net7.0-windows\Tema1App.deps.json
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\bin\Debug\net7.0-windows\Tema1App.runtimeconfig.json
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\bin\Debug\net7.0-windows\Tema1App.dll
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\bin\Debug\net7.0-windows\Tema1App.pdb
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\obj\Debug\net7.0-windows\Tema1App.dll
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\obj\Debug\net7.0-windows\refint\Tema1App.dll
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\obj\Debug\net7.0-windows\Tema1App.pdb
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\obj\Debug\net7.0-windows\Tema1App.genruntimeconfig.cache
+C:\Users\Caique Villarreal\Downloads\Tema1_FinalComplete\obj\Debug\net7.0-windows\ref\Tema1App.dll
