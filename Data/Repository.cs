@@ -40,7 +40,7 @@ namespace Tema1App.Data
         public void AddConsumer(Consumer c)
         {
             _store.Consumers.Add(c);
-            SaveJson(); // auto-save
+            SaveJson(); // 
         }
 
         public void AddAccount(Account a)
