@@ -86,7 +86,7 @@ namespace Tema1App
                 return;
             }
 
-            // Respond the three questions per account and aggregated
+            
             decimal totalConsumption = 0;
             decimal totalWithoutTax = 0;
             decimal totalWithTax = 0;
