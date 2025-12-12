@@ -41,83 +41,65 @@ namespace Tema1App
             this.btnQuery = new Button();
             this.lblQuery = new Label();
 
-            // 
-            // btnAddConsumer
-            // 
+           
+            
             this.btnAddConsumer.Location = new Point(12,12);
             this.btnAddConsumer.Size = new Size(180,30);
             this.btnAddConsumer.Text = "Adicionar Consumidor";
             this.btnAddConsumer.Click += new EventHandler(this.btnAddConsumer_Click);
-            // 
-            // btnAddAccount
-            // 
+            
+           
+            
             this.btnAddAccount.Location = new Point(12,48);
             this.btnAddAccount.Size = new Size(180,30);
             this.btnAddAccount.Text = "Adicionar Conta";
             this.btnAddAccount.Click += new EventHandler(this.btnAddAccount_Click);
-            // 
-            // btnSaveJson
-            // 
+             
+            
+            
             this.btnSaveJson.Location = new Point(12,84);
             this.btnSaveJson.Size = new Size(180,30);
             this.btnSaveJson.Text = "Salvar JSON";
             this.btnSaveJson.Click += new EventHandler(this.btnSaveJson_Click);
-            // 
-            // btnSaveXml
-            // 
+            
             this.btnSaveXml.Location = new Point(12,120);
             this.btnSaveXml.Size = new Size(180,30);
             this.btnSaveXml.Text = "Salvar XML";
             this.btnSaveXml.Click += new EventHandler(this.btnSaveXml_Click);
-            // 
-            // lblConsumers
-            // 
+           
             this.lblConsumers.Location = new Point(210,12);
             this.lblConsumers.Size = new Size(200,20);
             this.lblConsumers.Text = "Consumidores";
-            // 
-            // listConsumers
-            // 
+
+            
             this.listConsumers.Location = new Point(210,36);
             this.listConsumers.Size = new Size(420,120);
-            // 
-            // lblAccounts
-            // 
+            
             this.lblAccounts.Location = new Point(12,165);
             this.lblAccounts.Size = new Size(200,20);
             this.lblAccounts.Text = "Contas";
-            // 
-            // listAccounts
-            // 
+            
             this.listAccounts.Location = new Point(12,188);
             this.listAccounts.Size = new Size(618,160);
-            // 
-            // btnDetails
-            // 
+           
             this.btnDetails.Location = new Point(12,356);
             this.btnDetails.Size = new Size(180,30);
             this.btnDetails.Text = "Detalhes Conta";
             this.btnDetails.Click += new EventHandler(this.btnDetails_Click);
-            // 
-            // lblQuery
-            // 
+           
             this.lblQuery.Location = new Point(210,165);
             this.lblQuery.Size = new Size(300,20);
             this.lblQuery.Text = "Consultar por ID do Consumidor (cole o GUID):";
-            // 
-            // txtQueryId
-            // 
+           
             this.txtQueryId.Location = new Point(210,188);
             this.txtQueryId.Size = new Size(420,23);
-            // 
-            // btnQuery
-            // 
+            
             this.btnQuery.Location = new Point(210,217);
             this.btnQuery.Size = new Size(120,30);
             this.btnQuery.Text = "Consultar";
             this.btnQuery.Click += new EventHandler(this.btnQuery_Click);
 
-            // Form
+            
             this.ClientSize = new Size(650,400);
             this.Controls.Add(this.btnAddConsumer);
             this.Controls.Add(this.btnAddAccount);
